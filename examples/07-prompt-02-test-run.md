@@ -54,7 +54,7 @@ The app, container, cluster, and Helm execution are local. CI uses GitHub Action
 | Documentation/review | 4 h | Core milestones done | Clean checkout follows README; diagram matches files; status claims match evidence; learner answers review questions without AI | README, diagram, runbook, evidence index |
 | Explicit buffer | 2 h | — | Used for setup/debugging; if exhausted, cut stretch scope | Note unresolved blockers |
 
-**Estimated total:** 26 hours planned work plus 2 hours explicit buffer = 28 hours, leaving 2 hours of the 30-hour budget as additional reserve. These are estimates, not guarantees.
+**Estimated total:** 28 hours planned work plus 2 hours explicit buffer = 30 hours. These are estimates, not guarantees; if setup or debugging overruns, defer stretch goals and revisit the schedule.
 
 ## 5. Six-week schedule
 
