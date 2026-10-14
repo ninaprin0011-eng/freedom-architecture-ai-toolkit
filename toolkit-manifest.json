@@ -1,0 +1,31 @@
+{
+  "name": "freedom-architecture-ai-toolkit",
+  "version": "0.1.0",
+  "status": "pilot",
+  "file_count": 23,
+  "files": [
+    "CONTRIBUTING.md",
+    "LICENSE",
+    "README.md",
+    "docs/CHANGELOG.md",
+    "docs/SAFETY-AND-QUALITY.md",
+    "docs/USAGE-GUIDE.md",
+    "examples/01-sample-skills-matrix.md",
+    "examples/02-sample-project-plan.md",
+    "examples/03-sample-incident-report.md",
+    "examples/04-sample-portfolio-review.md",
+    "examples/05-sample-interview-questions.md",
+    "prompts/01-job-description-analyzer.md",
+    "prompts/02-portfolio-project-planner.md",
+    "prompts/03-devops-project-scaffolder.md",
+    "prompts/04-verification-troubleshooting-assistant.md",
+    "prompts/05-portfolio-interview-reviewer.md",
+    "rubric/portfolio-rubric.md",
+    "templates/evidence-log.md",
+    "templates/incident-report.md",
+    "templates/job-posting-input.md",
+    "templates/portfolio-review-input.md",
+    "templates/project-plan-template.md",
+    "templates/self-assessment.md"
+  ]
+}
